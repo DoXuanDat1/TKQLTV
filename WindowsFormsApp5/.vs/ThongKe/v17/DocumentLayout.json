@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\XboxGames\\winform\\WindowsFormsApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{842DB505-DE4F-4CCD-A0DD-05831A82D86A}|WindowsFormsApp5\\ThongKe.csproj|D:\\XboxGames\\winform\\WindowsFormsApp5\\windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{842DB505-DE4F-4CCD-A0DD-05831A82D86A}|WindowsFormsApp5\\ThongKe.csproj|solutionrelative:windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842DB505-DE4F-4CCD-A0DD-05831A82D86A}|WindowsFormsApp5\\ThongKe.csproj|D:\\XboxGames\\winform\\WindowsFormsApp5\\windowsformsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842DB505-DE4F-4CCD-A0DD-05831A82D86A}|WindowsFormsApp5\\ThongKe.csproj|solutionrelative:windowsformsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842DB505-DE4F-4CCD-A0DD-05831A82D86A}|WindowsFormsApp5\\ThongKe.csproj|D:\\XboxGames\\winform\\WindowsFormsApp5\\windowsformsapp5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842DB505-DE4F-4CCD-A0DD-05831A82D86A}|WindowsFormsApp5\\ThongKe.csproj|solutionrelative:windowsformsapp5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842DB505-DE4F-4CCD-A0DD-05831A82D86A}|WindowsFormsApp5\\ThongKe.csproj|d:\\xboxgames\\winform\\windowsformsapp5\\windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842DB505-DE4F-4CCD-A0DD-05831A82D86A}|WindowsFormsApp5\\ThongKe.csproj|solutionrelative:windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\XboxGames\\winform\\WindowsFormsApp5\\WindowsFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Form1.cs",
+              "ToolTip": "D:\\XboxGames\\winform\\WindowsFormsApp5\\WindowsFormsApp5\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\Form1.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAUwBIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T23:05:37.624Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\XboxGames\\winform\\WindowsFormsApp5\\WindowsFormsApp5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Form1.Designer.cs",
+              "ToolTip": "D:\\XboxGames\\winform\\WindowsFormsApp5\\WindowsFormsApp5\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:58:13.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\XboxGames\\winform\\WindowsFormsApp5\\WindowsFormsApp5\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Program.cs",
+              "ToolTip": "D:\\XboxGames\\winform\\WindowsFormsApp5\\WindowsFormsApp5\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:09:27.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\XboxGames\\winform\\WindowsFormsApp5\\WindowsFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Form1.cs",
+              "ToolTip": "D:\\XboxGames\\winform\\WindowsFormsApp5\\WindowsFormsApp5\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:08:35.379Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
